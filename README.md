@@ -2,15 +2,14 @@
 
 موقع دراسة كامل مبني من محاضرات المادة، الدروس المساعدة (Tutorial 1–2)، وامتحان Spring 2024 مع الحل.
 
-## الرابط العام
+## الاستضافة
 
-الموقع منشور على GitHub Pages ويمكن مشاركته مع أي شخص:
+**الموقع غير منشور حالياً على GitHub Pages، ولا يوجد رابط عام.**
 
-- **الموقع:** https://crispcharts.me/ec3sd03-numerical-review/
-- **بديل:** https://eissay.github.io/ec3sd03-numerical-review/
-- **المستودع:** https://github.com/eissay/ec3sd03-numerical-review
+السبب: حساب `eissay` فيه موقع مدونة (`eissay/eissay.github.io`) يملك الدومين المخصص `crispcharts.me`، وGitHub يخدم كل مواقع المشاريع التابعة لنفس الحساب تحت دومين المدونة (`crispcharts.me/<repo>/`) ويحوّل روابط `github.io` إليها. لذلك أي نشر لهذا المستودع على ذلك الحساب يجعله يظهر تحت دومين الشركة، وهذا مرفوض. أُوقف نشر Pages لهذا المستودع لهذا السبب، ولم تُلمس إعدادات المدونة أو الدومين.
 
-أي تعديل يُدفع إلى فرع `main` يُنشر تلقائياً خلال دقيقة تقريباً.
+- **المستودع:** https://github.com/eissay/ec3sd03-numerical-review (المحتوى كامل هنا)
+- للنشر لاحقاً بمعزل عن دومين المدونة، انقل المستودع إلى منظمة (organization) أو حساب آخر ثم فعّل Pages هناك؛ سيصبح الرابط `<owner>.github.io/ec3sd03-numerical-review/`.
 
 ## اتجاه النص: عربي RTL وإنجليزي LTR
 
